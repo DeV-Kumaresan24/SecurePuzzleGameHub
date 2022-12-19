@@ -1,4 +1,4 @@
-Just downlad the zip file or use the gitub link to store the files in your VS code.
+Just downlad the zip file or use the github link to store the files in your VS code.
 
 Then open "New Terminal".
 
